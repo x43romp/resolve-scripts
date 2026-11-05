@@ -4,6 +4,47 @@
 These are some scripts I used to automate processes in resolve. 
 
 
+# Installation
+**Mac OS X:**
+
+Install for all users
+```
+/Library/Application Support/Blackmagic Design/DaVinci Resolve/Fusion/Scripts
+```
+
+Install for current user
+```
+~/Library/Application Support/Blackmagic Design/DaVinci Resolve/Fusion/Scripts
+```
+
+**Windows**
+
+All users
+``` 
+%PROGRAMDATA%\Blackmagic Design\DaVinci Resolve\Fusion\Scripts
+```
+
+Curent user
+```
+%APPDATA%\Roaming\Blackmagic Design\DaVinci Resolve\Support\Fusion\Scripts
+```
+
+**Linux**
+
+All users
+```
+/opt/resolve/Fusion/Scripts
+```
+```
+/home/resolve/Fusion/Scripts/
+```
+
+Current User
+```
+$HOME/.local/share/DaVinciResolve/Fusion/Scripts
+```
+
+
 ## Simpify Bins
 This script is used to simplify cards so all of its files are all in one bin instead of nested.
 
